@@ -1,6 +1,6 @@
 
 
-describe('writing specs in typescript', () => {
+xdescribe('writing specs in typescript', () => {
     it('is easy', () => {
         expect(true).toBe(true);
     });
